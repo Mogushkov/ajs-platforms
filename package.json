@@ -1,7 +1,6 @@
 {
   "name": "@mogushkov/ajs-platforms",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -27,5 +26,7 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
+  "dependencies": {},
+  "description": ""
 }
